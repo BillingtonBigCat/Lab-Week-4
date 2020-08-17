@@ -107,3 +107,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rend: {fileID: 6224784822945273919}
+  red: {fileID: 0}
+  blue: {fileID: 0}
